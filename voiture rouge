@@ -1,5 +1,8 @@
 import random
 
+LE CODE SI DESSOUS SIMULE UNE PARTIE DE BLACKJACK MAIS LES CARTES DEJA PIOCHER NE SONT PAS RETIRER DU PAQUET
+
+
 def is_in(l,x):
   for i in range (len(l)):
     if l[i]==x:
